@@ -1,0 +1,6 @@
+Boy: b[1] is dating with Girl: g[3] 
+Boy: b[2] is dating with Girl: g[1] 
+Boy: b[6] is dating with Girl: g[4]
+Boy: b[5] is dating with Girl: g[4]
+Boy: b[3] is dating with Girl: g[0]
+Boy: b[4] is dating with Girl: g[5]   
